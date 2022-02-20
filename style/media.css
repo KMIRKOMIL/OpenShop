@@ -491,7 +491,7 @@
     display: none;
   }
   .middle__item {
-    /* display: none; */
+    display: none;
     position: fixed;
     flex-direction: column;
     background-color: #f5f5f5;
